@@ -1,0 +1,68 @@
+.cover-img {
+    max-height: 200px;
+}
+.img-profile {
+    max-width: 150px;
+    max-height: 150px;
+    border: 4px double #26c6da;
+    ;
+    margin-top: -75px;
+}
+.icon {
+    font-size: 20px;
+    color: #000000 !important;
+}
+.topic {
+    margin-top: 20px;
+}
+.card-title {
+    color: #000000 !important;
+}
+.title {
+    margin-bottom: 0;
+}
+.more {
+    max-width: 50px;
+}
+a {
+    color: #6c757d !important;
+}
+.description {
+    margin-left: 15px !important;
+}
+.exp-title {
+    display: flex ;
+    margin-bottom: 0;
+    color: #6c757d !important;
+}
+.card-text {
+    color: #000000 !important;
+}
+.progress-bar {
+    background-color: #80deea;
+}
+.footer {
+    margin-top: 20px;
+    background-color: #80deea !important;
+    color: #ffffff !important;
+}
+.footer-icon {
+    color: #ffffff !important;
+    font-size: 30px;
+}
+.footer-content {
+    margin-top: 10px;
+    color:#ffffff !important;
+}
+.list-group-item {
+border: none;
+}
+.badge-secondary {
+    background-color: #80deea;
+}
+li > a {
+color: #ffffff !important;
+}
+.project-link {
+    color: #26c6da !important;
+}
