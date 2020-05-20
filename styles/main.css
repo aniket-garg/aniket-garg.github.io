@@ -4,7 +4,7 @@
 .img-profile {
     max-width: 150px;
     max-height: 150px;
-    border: 4px double #26c6da;
+    border: 4px double #1e88e5;
     ;
     margin-top: -75px;
 }
@@ -25,7 +25,7 @@
     max-width: 50px;
 }
 a {
-    color: #6c757d !important;
+    color: #1e88e5 !important;
 }
 .description {
     margin-left: 15px !important;
@@ -33,17 +33,18 @@ a {
 .exp-title {
     display: flex ;
     margin-bottom: 0;
-    color: #6c757d !important;
+    margin-top: 10px;
+    color: #1e88e5 !important;
 }
 .card-text {
     color: #000000 !important;
 }
 .progress-bar {
-    background-color: #80deea;
+    background-color: #1e88e5;
 }
 .footer {
     margin-top: 20px;
-    background-color: #80deea !important;
+    background-color: #1e88e5 !important;
     color: #ffffff !important;
 }
 .footer-icon {
@@ -58,11 +59,19 @@ a {
 border: none;
 }
 .badge-secondary {
-    background-color: #80deea;
+    background-color: #1e88e5;
 }
 li > a {
 color: #ffffff !important;
 }
 .project-link {
-    color: #26c6da !important;
+    color: #1e88e5 !important;
+}
+.li-icon {
+    font-size: 12px;
+    padding: 5px;
+    color: #1e88e5 !important;
+}
+.btn {
+    text-align: left;
 }
